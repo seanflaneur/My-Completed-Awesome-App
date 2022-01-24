@@ -1,0 +1,31 @@
+/* Complete action: option A) nice line-though, option B) dissappear */
+.complete {
+  text-decoration: line-through;
+}
+
+* {
+  font-family: "Crimson Text";
+  font-size: large;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Crimson Text";
+  font-size: 100px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 50px;
+  margin-top: 100px;
+}
+
+.box {
+  background: black;
+  color: white;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  /* margin-top: 100px; */
+}
