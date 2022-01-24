@@ -8,6 +8,8 @@ import PomodoroComponent from "./PomodoroComponent";
 // import LogoutButtonComponent from "./components/LogoutButtonComponent";
 import DoneListComponent from "./DoneListComponent";
 
+//Github Testing, Testing, 1, 2, 3
+
 function HomePage() {
   const { user, isAuthenticated, isLoading } = useAuth0();
 
